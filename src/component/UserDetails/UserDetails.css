@@ -1,0 +1,19 @@
+.user-info{
+    height: 350px;
+    width: 300px;
+    border: 1px solid gray;
+    padding: 5px;
+    margin: 10px;
+    float: left;
+}
+.click-here-btn{
+    background-color: cornsilk;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.click-here-btn:hover{
+    background-color: gray;
+}

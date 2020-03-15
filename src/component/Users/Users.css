@@ -1,0 +1,6 @@
+.user-container{
+    display: flex
+}
+.user-details{
+    width: 80%;
+}
